@@ -1,2 +1,15 @@
-# my-first-repository
-My first GitHub repository for learning Git and GitHub.
+# My First Repository
+
+Hi! 👋 I'm Aditya Saurabh Agrahari.
+
+This is my first GitHub repository.
+
+## Learning
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+- Python
+
+Thank you for visiting my repository! 🚀
