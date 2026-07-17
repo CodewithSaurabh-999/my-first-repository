@@ -1,6 +1,6 @@
 # My First Repository
 
-Hi! 👋 I'm Aditya Saurabh Agrahari.
+Hi! 👋 I'm  Saurabh Agrahari.
 
 This is my first GitHub repository.
 
